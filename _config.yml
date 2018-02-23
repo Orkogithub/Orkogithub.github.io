@@ -15,7 +15,7 @@ name                     : "Orko"
 description              : "The amazing Orko"
 url                      : "https://Orkogithub.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : https://github.com/Orkogithub
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -109,7 +109,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : www.linkedin.com/in/davidantkowiak
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -252,7 +252,7 @@ defaults:
   - scope:
       path: ""
       type: posts
-    values: https://github.com/Orkogithub
+    values:
       layout: single
       author_profile: true
       read_time: true
