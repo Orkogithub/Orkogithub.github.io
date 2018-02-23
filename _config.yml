@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : dark", #"dirt", "neon", "mint", "plum", "sunrise" "default" "air", "aqua", "contrast",
 
 # Site Settings
 locale                   : "en-US"
@@ -15,7 +15,7 @@ name                     : "Orko"
 description              : "The amazing Orko"
 url                      : "https://Orkogithub.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : https://github.com/Orkogithub
+repository               : /Orkogithub
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -109,7 +109,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : www.linkedin.com/in/davidantkowiak
+  linkedin         : /in/davidantkowiak
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
