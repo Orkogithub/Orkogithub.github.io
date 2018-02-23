@@ -251,7 +251,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "Orkogithub.github.io"
+      path: ""
       type: posts
     values:
       layout: single
