@@ -15,7 +15,7 @@ name                     : "Orko"
 description              : "The amazing Orko"
 url                      : "https://Orkogithub.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : /Orkogithub
+repository               : "Orkogithub/SQLBP-Final"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -68,7 +68,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : @dmn0211
 facebook:
   username               :
   app_id                 :
