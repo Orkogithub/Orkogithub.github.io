@@ -220,17 +220,6 @@ whitelist:
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
 
-plugins:
-  - jekyll-archives
-  jekyll-archives:
-  enabled: [enabled]
-  layout: 'archive'
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
 #category_archive:
   #type: liquid
   #path: /categories/
