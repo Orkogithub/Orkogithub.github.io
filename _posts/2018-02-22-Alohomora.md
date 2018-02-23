@@ -2,4 +2,4 @@
 published: true
 ---
 Working on a new blog hosted on GitHub
-[Repo](https://github.com/Orkogithub "Orko's Magic")
+[Orko's Spell Book](https://github.com/Orkogithub "Repo")
