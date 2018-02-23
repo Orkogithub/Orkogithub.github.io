@@ -252,7 +252,7 @@ defaults:
   - scope:
       path: ""
       type: posts
-    values:
+    values: https://github.com/Orkogithub
       layout: single
       author_profile: true
       read_time: true
