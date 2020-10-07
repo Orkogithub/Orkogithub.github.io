@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Nutanix Demo"
-    url: https://www.nutanix.com/test-drive-hyperconverged-infrastructure/
+  - title: "Google Cloud Free Trial"
+    url: https://cloud.google.com/free
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
