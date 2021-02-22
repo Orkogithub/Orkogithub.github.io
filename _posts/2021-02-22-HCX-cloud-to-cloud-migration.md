@@ -1,0 +1,3 @@
+With HCX cloud-cloud migration, you can now migrate your VMs between two VMware Engine private clouds. And with Global Routing, it’s fast and easy to move across geographies without having to set up complex tunnels. It is now easier to update your deployment plan and cloud architecture even after you have completed your cloud migrations.
+
+[Explore GCVE with Cloud to Cloud Migration.](https://cloud.google.com/blog/products/compute/whats-new-in-google-cloud-vmware-engine-in-february-2021)
