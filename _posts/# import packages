@@ -1,0 +1,20 @@
+# import packages
+import fitz
+import numpy as np
+import cv2
+
+#set path to pdf
+path2doc = <path to pdf>
+
+#open pdf with fitz
+doc = fitz.open(path2doc)
+
+# determine number of pages
+pagecount = doc.pageCount
+
+# loop over all pages and convert to image (here jpeg)
+for i in range(pagecount):
+    page = doc[i]
+    pix = page.getPixmap().getImageData(output='JPEG')
+    jpg_as_np = np.frombuffer(pix, dtype=np.uint8)
+    image = cv2.imdecode(jpg_as_np, flags=1)
